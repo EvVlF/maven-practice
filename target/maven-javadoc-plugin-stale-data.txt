@@ -1,0 +1,88 @@
+@options
+@argfile
+-classpath
+'/home/koshon/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar:/home/koshon/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/3.4.2/maven-assembly-plugin-3.4.2.jar:/home/koshon/.m2/repository/org/apache/maven/shared/maven-common-artifact-filters/3.3.1/maven-common-artifact-filters-3.3.1.jar:/home/koshon/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/home/koshon/.m2/repository/org/apache/maven/shared/maven-artifact-transfer/0.13.1/maven-artifact-transfer-0.13.1.jar:/home/koshon/.m2/repository/org/apache/maven/maven-core/3.0/maven-core-3.0.jar:/home/koshon/.m2/repository/org/apache/maven/maven-model/3.0/maven-model-3.0.jar:/home/koshon/.m2/repository/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar:/home/koshon/.m2/repository/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.jar:/home/koshon/.m2/repository/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.jar:/home/koshon/.m2/repository/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar:/home/koshon/.m2/repository/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.jar:/home/koshon/.m2/repository/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.jar:/home/koshon/.m2/repository/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.jar:/home/koshon/.m2/repository/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar:/home/koshon/.m2/repository/org/sonatype/aether/aether-util/1.7/aether-util-1.7.jar:/home/koshon/.m2/repository/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar:/home/koshon/.m2/repository/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.jar:/home/koshon/.m2/repository/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7-noaop.jar:/home/koshon/.m2/repository/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar:/home/koshon/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar:/home/koshon/.m2/repository/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar:/home/koshon/.m2/repository/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar:/home/koshon/.m2/repository/org/codehaus/plexus/plexus-component-annotations/2.0.0/plexus-component-annotations-2.0.0.jar:/home/koshon/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.26/plexus-interpolation-1.26.jar:/home/koshon/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/home/koshon/.m2/repository/org/apache/maven/shared/maven-filtering/3.3.0/maven-filtering-3.3.0.jar:/home/koshon/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/home/koshon/.m2/repository/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar:/home/koshon/.m2/repository/org/codehaus/plexus/plexus-io/3.4.0/plexus-io-3.4.0.jar:/home/koshon/.m2/repository/org/codehaus/plexus/plexus-archiver/4.4.0/plexus-archiver-4.4.0.jar:/home/koshon/.m2/repository/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar:/home/koshon/.m2/repository/org/iq80/snappy/snappy/0.4/snappy-0.4.jar:/home/koshon/.m2/repository/org/apache/maven/maven-archiver/3.6.0/maven-archiver-3.6.0.jar:/home/koshon/.m2/repository/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.jar'
+-encoding
+'UTF-8'
+-private
+-source
+'8'
+-sourcepath
+'/home/koshon/IdeaProjects/maven-practice/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/koshon/IdeaProjects/maven-practice/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'maven-practice 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/koshon/IdeaProjects/maven-practice/target/javadoc-bundle-options'
+-nohelp
+-use
+-version
+-windowtitle
+'maven-practice 1.0-SNAPSHOT API'
+'/home/koshon/IdeaProjects/maven-practice/src/main/java/Main.java'
+/home/koshon/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar = 1658785695077
+/home/koshon/.m2/repository/org/apache/maven/plugins/maven-assembly-plugin/3.4.2/maven-assembly-plugin-3.4.2.jar = 1658788517078
+/home/koshon/.m2/repository/org/apache/maven/shared/maven-common-artifact-filters/3.3.1/maven-common-artifact-filters-3.3.1.jar = 1658788520775
+/home/koshon/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar = 1658788520782
+/home/koshon/.m2/repository/org/apache/maven/shared/maven-artifact-transfer/0.13.1/maven-artifact-transfer-0.13.1.jar = 1658788520792
+/home/koshon/.m2/repository/org/apache/maven/maven-core/3.0/maven-core-3.0.jar = 1647700443504
+/home/koshon/.m2/repository/org/apache/maven/maven-model/3.0/maven-model-3.0.jar = 1647700443571
+/home/koshon/.m2/repository/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar = 1647700443488
+/home/koshon/.m2/repository/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.jar = 1647700443484
+/home/koshon/.m2/repository/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.jar = 1647700443598
+/home/koshon/.m2/repository/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar = 1647700443688
+/home/koshon/.m2/repository/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.jar = 1647700443721
+/home/koshon/.m2/repository/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.jar = 1647700443791
+/home/koshon/.m2/repository/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.jar = 1647700443861
+/home/koshon/.m2/repository/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar = 1647700443894
+/home/koshon/.m2/repository/org/sonatype/aether/aether-util/1.7/aether-util-1.7.jar = 1647700443921
+/home/koshon/.m2/repository/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar = 1647700443958
+/home/koshon/.m2/repository/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.jar = 1647700443991
+/home/koshon/.m2/repository/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7-noaop.jar = 1647700444174
+/home/koshon/.m2/repository/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar = 1647700444144
+/home/koshon/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar = 1647700444301
+/home/koshon/.m2/repository/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar = 1647700444328
+/home/koshon/.m2/repository/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar = 1647700443674
+/home/koshon/.m2/repository/org/codehaus/plexus/plexus-component-annotations/2.0.0/plexus-component-annotations-2.0.0.jar = 1658788575571
+/home/koshon/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.26/plexus-interpolation-1.26.jar = 1658788520798
+/home/koshon/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar = 1658788520898
+/home/koshon/.m2/repository/org/apache/maven/shared/maven-filtering/3.3.0/maven-filtering-3.3.0.jar = 1658788520885
+/home/koshon/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar = 1658788520872
+/home/koshon/.m2/repository/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar = 1658788520895
+/home/koshon/.m2/repository/org/codehaus/plexus/plexus-io/3.4.0/plexus-io-3.4.0.jar = 1658788520932
+/home/koshon/.m2/repository/org/codehaus/plexus/plexus-archiver/4.4.0/plexus-archiver-4.4.0.jar = 1658788521022
+/home/koshon/.m2/repository/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar = 1658788521102
+/home/koshon/.m2/repository/org/iq80/snappy/snappy/0.4/snappy-0.4.jar = 1658788521002
+/home/koshon/.m2/repository/org/apache/maven/maven-archiver/3.6.0/maven-archiver-3.6.0.jar = 1658788521048
+/home/koshon/.m2/repository/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.jar = 1658788521125
+/home/koshon/IdeaProjects/maven-practice/src/main/java/Main.java = 1658789841420
+/home/koshon/IdeaProjects/maven-practice/src/main/java = 1658789841423
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/package-summary.html = 1658789861380
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/script.js = 1658789861400
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/index-all.html = 1658789861396
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/stylesheet.css = 1658789861400
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/member-search-index.js = 1658789861396
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/allpackages-index.html = 1658789861393
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/package-search-index.js = 1658789861396
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/tag-search-index.js = 1658789861396
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/module-search-index.js = 1658789861393
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/overview-tree.html = 1658789861386
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/copy.svg = 1658789861400
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/jquery-ui.overrides.css = 1658789861406
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/element-list = 1658789861376
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/package-tree.html = 1658789861383
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/Main.html = 1658789861376
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/deprecated-list.html = 1658789861390
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/package-use.html = 1658789861386
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/allclasses-index.html = 1658789861393
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/search.js = 1658789861403
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/type-search-index.js = 1658789861396
+/home/koshon/IdeaProjects/maven-practice/target/site/apidocs/index.html = 1658789861400
